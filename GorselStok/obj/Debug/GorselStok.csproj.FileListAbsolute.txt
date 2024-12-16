@@ -1,0 +1,10 @@
+C:\Users\demra\source\repos\GorselStok\bin\Debug\GorselStok.exe.config
+C:\Users\demra\source\repos\GorselStok\bin\Debug\GorselStok.exe
+C:\Users\demra\source\repos\GorselStok\bin\Debug\GorselStok.pdb
+C:\Users\demra\source\repos\GorselStok\obj\Debug\GorselStok.csprojAssemblyReference.cache
+C:\Users\demra\source\repos\GorselStok\obj\Debug\GorselStok.Form1.resources
+C:\Users\demra\source\repos\GorselStok\obj\Debug\GorselStok.Properties.Resources.resources
+C:\Users\demra\source\repos\GorselStok\obj\Debug\GorselStok.csproj.GenerateResource.cache
+C:\Users\demra\source\repos\GorselStok\obj\Debug\GorselStok.csproj.CoreCompileInputs.cache
+C:\Users\demra\source\repos\GorselStok\obj\Debug\GorselStok.exe
+C:\Users\demra\source\repos\GorselStok\obj\Debug\GorselStok.pdb
